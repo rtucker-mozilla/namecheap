@@ -1,0 +1,6 @@
+*.csr
+*.crt
+*.key
+settings.py
+certs/
+__pycache__/
