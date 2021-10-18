@@ -1,4 +1,4 @@
-`
+```
 usage: purchase.py [-h] [-c COMMON_NAME] [-y YEARS] [-f CSR_FILE]
                    [-s SAN_NAMES]
 
@@ -8,4 +8,4 @@ optional arguments:
   -y YEARS        Store how many years to purchase certificate for.
   -f CSR_FILE     CSR Filepath.
   -s SAN_NAMES    Cert SANs excluding the common name
-  `
+  ```
